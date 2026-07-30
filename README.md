@@ -138,16 +138,6 @@ The final power supply successfully delivered:
 
 ---
 
-## Project Files
-
-```
-Documentation/
-Images/
-LTspice/
-Videos/
-Hardware/
-```
-
 ---
 
 ## Future Improvements
@@ -163,5 +153,6 @@ Hardware/
 ## Author
 
 **Aliaa **
+Team: Zeinab Mahmoud & Mariam Elsheshtawy 
 German International University (GIU)
 Electrical Engineering and Electronics Project
