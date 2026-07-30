@@ -152,7 +152,7 @@ The final power supply successfully delivered:
 
 ## Author
 
-**Aliaa **
-Team: Zeinab Mahmoud & Mariam Elsheshtawy 
-German International University (GIU)
-Electrical Engineering and Electronics Project
+
+-Team: Aliaa & Zeinab Mahmoud & Mariam Elsheshtawy 
+-German International University (GIU)
+-Electrical Engineering and Electronics Project
